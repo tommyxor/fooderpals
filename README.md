@@ -19,7 +19,7 @@ Welcome to Fooderpals, a vibrant social recipe app that allows users to discover
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:tommycp96/fooderpals.git
+   git clone git@github.com:tommyxor/fooderpals.git
    ```
 2. **Navigate to the project directory:**
    ```bash
